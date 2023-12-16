@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="2023C2_THP_PAR2_DESPACHOS_COMPLETO/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
